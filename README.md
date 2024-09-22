@@ -40,7 +40,7 @@
 
 # My GitHub Contributions
 
-![Snake gif](https://raw.githubusercontent.com/PraveenTechWizard/PraveenTechWizard/main/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/PraveenTechWizard/PraveenTechWizard/blob/output/github-contribution-grid-snake.gif)
 
 
 Check out my contributions!
