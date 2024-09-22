@@ -62,7 +62,7 @@ Check out my contributions!
 ---
 
 ## 💡 **Latest Projects**:
-- **Hirst Painting** – Using <span style="background-color: yellow;">Turtle Module</span>.
+- **Hirst Painting** – Using <span style="background-color: red;">Turtle Module</span>.
 
 ---
 
