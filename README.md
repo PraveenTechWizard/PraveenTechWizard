@@ -45,7 +45,7 @@ Check out my contributions!
 
 ## 📊 **LeetCode Stats**:
 <a href="https://leetcode.com/Lucy000" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/YourLeetCodeUsername?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" style="border-radius: 10px;">
+    <img src="https://leetcard.jacoblin.cool/Lucy000?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" style="border-radius: 10px;">
 </a>
 
 ![LeetCode Animation](https://media.giphy.com/media/your-animation-link.gif)
