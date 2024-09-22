@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Praveen Kumar (aka **PraveenTechWizard**) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+# 👋 Hi, I'm Praveen Kumar (aka **PraveenTechWizard**) ![Welcome GIF](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PraveenTechWizard&color=brightgreen)
 
@@ -32,7 +32,7 @@
 
 ## 🔥 LeetCode Performance:
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Lucy000?theme=light&font=Baloo&ext=heatmap)](https://leetcode.com/YourLeetCodeUsername/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YourLeetCodeUsername?theme=light&font=Baloo&ext=heatmap)](https://leetcode.com/YourLeetCodeUsername/)
 
 - **Problems Solved**: [Total Problems]
 - **Rank**: [Your Rank]
