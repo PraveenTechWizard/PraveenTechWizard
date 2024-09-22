@@ -62,9 +62,7 @@ Check out my contributions!
 ---
 
 ## 💡 **Latest Projects**:
-- **Weather Monitoring App** – A Python app that sends daily weather updates via email.
-- **Stock Profit Calculator** – Calculate stock profits based on given data sets.
-- **Portfolio Website** – My personal portfolio showing all my work and projects.
+- **Hirst Painting** – Using ==Turtle module.
 
 ---
 
