@@ -38,8 +38,6 @@
 
 # My GitHub Contributions
 
-# My GitHub Contributions
-
 ![snake_gif](https://github.com/PraveenTechWizard/PraveenTechWizard/blob/output/github-snake-dark.svg)
 
 
