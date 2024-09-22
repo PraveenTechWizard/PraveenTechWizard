@@ -70,7 +70,7 @@ Check out my contributions!
 
 ## 💬 **Connect with Me**:
 <div align="center">
-  <a href="https://linkedin.com/in/praveen-kumar"><img src="www.linkedin.com/in/praveen-kumar-j-1bb832hx" alt="LinkedIn"></a>&nbsp;
+  <a href="www.linkedin.com/in/praveen-kumar-j-1bb832hx" alt="LinkedIn"><img src="www.linkedin.com/in/praveen-kumar-j-1bb832hx" alt="LinkedIn"></a>&nbsp;
   <a href="https://leetcode.com/Lucy000"><img src="https://img.shields.io/badge/LeetCode-Lucy000-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"></a>
 </div>
 
