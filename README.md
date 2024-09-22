@@ -43,13 +43,19 @@ Check out my contributions!
 
 ---
 
-## 📊 **LeetCode Stats**:
-<a href="https://leetcode.com/Lucy000" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Lucy000?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" style="border-radius: 10px;">
-</a>
 
-![LeetCode Animation](https://media.giphy.com/media/your-animation-link.gif)
 
+<div style="display: flex; flex-direction: column; align-items: center; margin: 20px;">
+    <h2 style="text-align: center;">📊 **LeetCode Stats**</h2>
+    <a href="https://leetcode.com/Lucy000" target="_blank" style="margin-bottom: 20px;">
+        <img src="https://leetcard.jacoblin.cool/Lucy000?theme=dark&font=Fira%20Code&ext=heatmap" 
+             alt="LeetCode Stats" 
+             style="border-radius: 10px; max-width: 100%; height: auto;">
+    </a>
+    <img src="https://media.giphy.com/media/your-snake-animation-link.gif" 
+         alt="Snake Eating Contributions" 
+         style="max-width: 100%; height: auto;">
+</div>
 
 
 
