@@ -70,9 +70,8 @@ Check out my contributions!
 
 ## 💬 **Connect with Me**:
 <div align="center">
-  <a href="https://linkedin.com/in/praveen-kumar"><img src="https://img.shields.io/badge/LinkedIn-Praveen%20Kumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>&nbsp;
-  <a href="https://github.com/PraveenTechWizard"><img src="https://img.shields.io/badge/GitHub-PraveenTechWizard-black?style=for-the-badge&logo=github" alt="GitHub"></a>&nbsp;
-  <a href="https://leetcode.com/YourLeetCodeUsername"><img src="https://img.shields.io/badge/LeetCode-YourUsername-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"></a>
+  <a href="https://linkedin.com/in/praveen-kumar"><img src="www.linkedin.com/in/praveen-kumar-j-1bb832hx" alt="LinkedIn"></a>&nbsp;
+  <a href="https://leetcode.com/Lucy000"><img src="https://img.shields.io/badge/LeetCode-Lucy000-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"></a>
 </div>
 
 ---
