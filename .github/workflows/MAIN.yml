@@ -31,11 +31,11 @@ jobs:
       - name: Show git status
         run: git status
 
-      # Push the changes back to the repository
+      # Push the changes using Personal Access Token
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PAT_TOKEN }}  # Use the PAT secret
           branch: output
           force: true
 
@@ -46,4 +46,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use the PAT secret
