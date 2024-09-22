@@ -1,61 +1,39 @@
-# 🏴‍☠️ Ahoy, Matey! Welcome to Praveen's Pirate Ship! ⚔️
+# Hi, I'm Praveen Kumar! 👋
 
-![Luffy Pirate Ship](https://media.giphy.com/media/l0HlQre93ifXbqTs4/giphy.gif)
+![Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-![Profile Views](https://komarev.com/ghpvc/?username=PraveenTechWizard&style=flat-square&color=blue)
-
-> _"I'm searching for the ultimate coding treasure and becoming the King of Developers."_ – **Praveen Kumar**, aka **PraveenTechWizard**
+![Profile Views](https://komarev.com/ghpvc/?username=PraveenTechWizard&color=blue&style=flat-square)
 
 ---
 
-### ⚡ **About Me**:
-- 🏴‍☠️ **Captain of the Pirate Dev Crew** – A Full-Stack Developer who’s sailing the seas of **ReactJS**, **Python**, and **Django**.
-- 📚 Graduated from **Anna University**, and since then, I’ve been diving deep into the world of tech like a treasure hunter chasing the One Piece.
-- 🎯 **Data Structures & Algorithms** are my Devil Fruits 🍇 – mastering them to gain coding powers.
-- 🛠 Currently leveling up my skills with **LeetCode battles** and exciting new **projects**.
+## 👨‍💻 **About Me**:
+- 💻 I'm a **Full Stack Developer** skilled in **ReactJS**, **Python**, and **Django**.
+- 🎓 Graduated from **Anna University, BIT Campus**.
+- 🔍 Passionate about solving complex problems through **Data Structures & Algorithms**.
+- 🌱 Currently exploring the latest technologies in **front-end development** and **software design**.
+- 🛠 Actively solving problems on **LeetCode**, contributing to **open-source projects**, and building exciting **new projects**.
+- 🚀 I believe in continuous learning and strive to become a better **software developer** every day.
 
 ---
 
-## 🏴‍☠️ **Crew of Technologies I Master**:
+## 🚀 **Skills & Technologies**:
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
   <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS">&nbsp;
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </div>
 
 ---
 
-## 🚀 **My Latest Voyages (Projects)**:
-- 🛠️ **Weather Monitoring App** – Get weather forecasts like navigating with a Log Pose 🌦️.
-- ⚔️ **Stock Profit Calculator** – Calculating profits like treasures found on the Grand Line 🏝️.
-- 🌊 **Personal Portfolio** – My treasure map for developers to discover my journey in tech ⚓.
-
----
-
-## 🔥 **My Bounty (LeetCode Stats)**:
-<a href="https://leetcode.com/YourLeetCodeUsername">
-    <img src="https://leetcard.jacoblin.cool/YourLeetCodeUsername?theme=unicorn&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats">
-</a>
+## 🔥 **GitHub Stats**:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-200%2B-brightgreen?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Problems Solved">
-  <img src="https://img.shields.io/badge/Favorite%20Topic-Arrays-blue?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Favorite Topic">
-</div>
-
----
-
-## 🏴‍☠️ **GitHub Performance**:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveenTechWizard&show_icons=true&theme=tokyonight&icon_color=yellow" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PraveenTechWizard&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=yellow" alt="GitHub Streak">
-  <br>
-  <img src="https://raw.githubusercontent.com/PraveenTechWizard/snake/main/snake.svg" alt="Snake Eating My Contributions">
+  <img src="https://github-readme-stats.vercel.app/api?username=PraveenTechWizard&show_icons=true&theme=radical" alt="GitHub Stats">&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenTechWizard&theme=radical&hide_border=true" alt="GitHub Streak">&nbsp;
 </div>
 
 ---
@@ -65,12 +43,28 @@
 
 ---
 
-## ⚡ **Crew Connections**:
-- **LinkedIn** – [Join my crew here!](https://www.linkedin.com/in/praveen-kumar/)
-- **GitHub** – [Check out my latest adventures](https://github.com/PraveenTechWizard)
-- **LeetCode** – [Watch me battle coding challenges](https://leetcode.com/YourLeetCodeUsername)
+## 📊 **LeetCode Stats**:
+<a href="https://leetcode.com/YourLeetCodeUsername">
+    <img src="https://leetcard.jacoblin.cool/YourLeetCodeUsername?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats">
+</a>
 
 ---
 
-## 🔥 **Fun Fact**:
-> _"My coding journey is just like Luffy's adventure to find One Piece—never-ending, exciting, and full of unexpected challenges!"_
+## 💡 **Latest Projects**:
+- **Weather Monitoring App** – A Python app that sends daily weather updates via email.
+- **Stock Profit Calculator** – Calculate stock profits based on given data sets.
+- **Portfolio Website** – My personal portfolio showing all my work and projects.
+
+---
+
+## 💬 **Connect with Me**:
+<div align="center">
+  <a href="https://linkedin.com/in/praveen-kumar"><img src="https://img.shields.io/badge/LinkedIn-Praveen%20Kumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>&nbsp;
+  <a href="https://github.com/PraveenTechWizard"><img src="https://img.shields.io/badge/GitHub-PraveenTechWizard-black?style=for-the-badge&logo=github" alt="GitHub"></a>&nbsp;
+  <a href="https://leetcode.com/YourLeetCodeUsername"><img src="https://img.shields.io/badge/LeetCode-YourUsername-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"></a>
+</div>
+
+---
+
+## 🌟 **Fun Fact**:
+I love solving problems on **LeetCode** and sharpening my coding skills. Every day is a new challenge and a step closer to mastering the art of coding.
