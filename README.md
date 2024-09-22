@@ -1,66 +1,77 @@
-# 👋 Hi, I'm Praveen Kumar (aka **PraveenTechWizard**) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+# 🏴‍☠️ Yo-ho-ho! Welcome to Praveen Kumar's Pirate Ship!
 
-![Profile Views](https://komarev.com/ghpvc/?username=PraveenTechWizard&color=brightgreen)
+![One Piece Pirate Ship GIF](https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif)
 
-## 🚀 About Me:
-- 🌱 **Full Stack Developer** passionate about Python 🐍, Django 🦄, React ⚛️, and building tech solutions 🛠️.
-- 🎓 MCA Graduate from **Anna University** | Computer Science Enthusiast 💻.
-- 💡 I love learning and implementing **Data Structures and Algorithms (DSA)** 📊.
-- 🔭 Currently diving deep into **ReactJS** and **Full Stack Development** 🌐.
+![Profile Views](https://komarev.com/ghpvc/?username=PraveenTechWizard&color=orange)
 
----
+> _"I'm on a coding adventure to become the King of Developers!"_ – Praveen Kumar aka **PraveenTechWizard**
 
-## 💻 Tech Stack:
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)&nbsp;
-![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)&nbsp;
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)&nbsp;
+## ⚡ About Me:
+- 🏴‍☠️ **Captain of the Code Pirates** – Full-Stack Developer ⚔️.
+- 🌍 Sailing through the seas of **ReactJS**, **Python**, and **Django** in search of the ultimate treasure (knowledge!).
+- 🎓 Graduated from **Anna University** (MCA) and currently solving tech challenges like Luffy's battles!
+- 💡 Obsessed with **Data Structures & Algorithms**, seeking to master them all, like the **Devil Fruits** 🥭.
 
 ---
 
-## 🚀 Currently Learning:
+## ⚔️ My Pirate Crew (Tech Stack):
 
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white) &nbsp;
-![DSA](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-ffa500?style=flat-square)&nbsp;
-
----
-
-## 🔥 LeetCode Performance:
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Lucy000?theme=light&font=Baloo&ext=heatmap)](https://leetcode.com/YourLeetCodeUsername/)
-
-- **Problems Solved**: [Total Problems]
-- **Rank**: [Your Rank]
-- **Favorite Topics**: Sorting, Arrays, Linked Lists
+<div style="display: flex; align-items: center;">
+<img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">&nbsp;
+<img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">&nbsp;
+<img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django" alt="Django">&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</div>
 
 ---
 
-## 🛠️ My Projects:
-- 🌦️ **Weather Monitoring App** – Sends daily weather updates via email using an API ⛅.
-- 📈 **Stock Profit Calculator** – Analyzes stock data and provides profit insights 📊.
-- 🖥️ **Portfolio Website** – A personal webpage showcasing my journey in tech 🔗.
+## 🚀 Latest Voyages (Projects):
+- 🛠️ **Weather Monitoring App** – Tracks weather conditions like a Log Pose 🌦️.
+- 💰 **Stock Profit Calculator** – Calculates profits like treasure maps 🏝️.
+- ⚓ **Portfolio Website** – My personal One Piece where I showcase my tech adventures 🌊.
 
 ---
 
-## 📊 GitHub Stats:
+## 🔥 My Bounty (LeetCode Performance):
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenTechWizard&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenTechWizard&layout=compact&theme=radical)
+<div align="center">
+  <a href="https://leetcode.com/Lucy000">
+    <img src="https://leetcard.jacoblin.cool/YourLeetCodeUsername?theme=unicorn&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats">
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Problems%20Solved-200%2B-brightgreen?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Favorite%20Topic-Arrays-blue?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Favorite Topic">
+</div>
 
 ---
 
-## 🔗 Connect with Me:
+## 🏴‍☠️ Pirate Stats (GitHub Performance):
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-kumar)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PraveenTechWizard)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/YourLeetCodeUsername/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PraveenTechWizard&show_icons=true&theme=tokyonight&icon_color=yellow" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PraveenTechWizard&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=yellow" alt="GitHub Streak">
+</div>
+
+---
+
+## 📡 Crew Connections (Find Me Here):
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/praveen-kumar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;
+  <a href="https://github.com/PraveenTechWizard" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>&nbsp;
+  <a href="https://leetcode.com/YourLeetCodeUsername" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
+  </a>
+</div>
 
 ---
 
 ## ⚡ Fun Fact:
-- Coding is like solving puzzles, and I love solving every piece 🧩!
+> _"Coding feels like unlocking the One Piece, and I'm here for the adventure! Let’s conquer the Grand Line of tech together!"_ ☠️
