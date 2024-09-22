@@ -38,9 +38,6 @@
 
 ---
 
-## 🐍 **Snake Eating Contributions**:
-![Snake animation](https://github.com/PraveenTechWizard/PraveenTechWizard/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 📊 **LeetCode Stats**:
