@@ -48,7 +48,8 @@ Check out my contributions!
     <img src="https://leetcard.jacoblin.cool/Lucy000?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" style="border-radius: 10px;">
 </a>
 
-![Snake Eating Contributions](https://media.giphy.com/media/your-snake-animation-link.gif)
+![LeetCode Animation](https://media.giphy.com/media/your-animation-link.gif)
+
 
 
 
