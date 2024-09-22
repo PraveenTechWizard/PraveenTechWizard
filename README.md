@@ -34,7 +34,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PraveenTechWizard&show_icons=true&theme=radical" alt="GitHub Stats">&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenTechWizard&theme=radical&hide_border=true" alt="GitHub Streak">&nbsp;
-  ![Snake animation](https://github.com/PraveenTechWizard/PraveenTechWizard/blob/main/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/PraveenTechWizard/PraveenTechWizard/blob/output/github-contribution-grid-snake.gif)
 
 </div>
 
