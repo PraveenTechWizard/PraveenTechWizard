@@ -62,7 +62,7 @@ Check out my contributions!
 ---
 
 ## 💡 **Latest Projects**:
-- **Hirst Painting** – Using ==Turtle module.
+- **Hirst Painting** – Using __Turtle__ module.
 
 ---
 
