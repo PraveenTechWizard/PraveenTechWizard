@@ -41,9 +41,6 @@
 
 Check out my contributions!
 
-Check out my contributions!
-
-
 ---
 
 ## 📊 **LeetCode Stats**:
