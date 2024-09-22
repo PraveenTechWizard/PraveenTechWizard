@@ -45,7 +45,7 @@
 
 ## 📊 **LeetCode Stats**:
 <a href="https://leetcode.com/YourLeetCodeUsername">
-    <img src="https://leetcard.jacoblin.cool/YourLeetCodeUsername?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats">
+    <img src="https://leetcard.jacoblin.cool/Lucy000?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats">
 </a>
 
 ---
