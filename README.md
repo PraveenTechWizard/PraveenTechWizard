@@ -43,8 +43,6 @@ Check out my contributions!
 
 ---
 
-
-
 <div style="display: flex; flex-direction: column; align-items: center; margin: 20px;">
     <h2 style="text-align: center;">📊 **LeetCode Stats**</h2>
     <a href="https://leetcode.com/Lucy000" target="_blank" style="margin-bottom: 20px;">
@@ -56,8 +54,6 @@ Check out my contributions!
          alt="Snake Eating Contributions" 
          style="max-width: 100%; height: auto;">
 </div>
-
-
 
 ---
 
