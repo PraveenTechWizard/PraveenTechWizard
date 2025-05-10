@@ -33,8 +33,6 @@
   <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">&nbsp;
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">&nbsp;
   <img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">&nbsp;
-  <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS">&nbsp;
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -44,9 +42,7 @@
 
 ## 🎯 Ongoing Projects
 
-- 🐍 **Snake Game** (Improved mechanics + UI)
-- 🎮 **2D Unity Platformer Game**
-- 📦 Web app for daily weather updates with Python
+- 🎮 **3D Unity Platformer Game (Rocket🚀 Rocket🚀)**
 - 🔧 More mini-games in the Unity lab 🧪
 
 ---
