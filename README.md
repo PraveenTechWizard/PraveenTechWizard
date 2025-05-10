@@ -48,6 +48,12 @@
 - 🔧 More mini-games in the Unity lab 🧪
 
 ---
+### 🐍 Watch my contributions snake 🐍
+
+![GitHub Snake dark](https://github.com/PraveenTechWizard/PraveenTechWizard/blob/output/github-snake-dark.svg)
+
+![GitHub Snake gif](https://github.com/PraveenTechWizard/PraveenTechWizard/blob/output/ocean.gif)
+---
 
 ## 📈 GitHub Stats:
 
@@ -55,8 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PraveenTechWizard&show_icons=true&theme=tokyonight" alt="GitHub Stats">&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenTechWizard&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </div>
-![snake_gif](https://github.com/PraveenTechWizard/PraveenTechWizard/blob/output/github-snake-dark.svg)
-
 ---
 
 ## 📊 LeetCode Progress
