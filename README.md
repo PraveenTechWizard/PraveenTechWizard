@@ -1,6 +1,6 @@
 # 🎮 Hey, I'm Praveen Kumar! 👋
 
-![Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coder GIF](https://media.giphy.com/media/3ohs7KViF3vWLwl8l6/giphy.gif)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PraveenTechWizard&color=blue&style=flat-square)
 
