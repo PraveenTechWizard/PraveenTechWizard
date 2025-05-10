@@ -49,10 +49,7 @@
 
 ---
 ### 🐍 Watch my contributions snake 🐍
-
 ![GitHub Snake dark](https://github.com/PraveenTechWizard/PraveenTechWizard/blob/output/github-snake-dark.svg)
-
-![GitHub Snake gif](https://github.com/PraveenTechWizard/PraveenTechWizard/blob/output/ocean.gif)
 ---
 
 ## 📈 GitHub Stats:
