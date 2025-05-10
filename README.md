@@ -1,6 +1,6 @@
 # 🎮 Hey, I'm Praveen Kumar! 👋
 
-![Game Dev Mode](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R5Z2RoaHNkeWQ4aTBwdDN1dWVhbmU3ang0cHA0ZjdhNW50cTRwNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3IqEvVpFUMmll1h5Ri/giphy.gif)
+![Game Dev Mode](https://www.bing.com/images/search?view=detailV2&ccid=AeNy%2bJal&id=C5F3FFAB1CBA6F24BD7716FB27F625C99EED0F05&thid=OIP.AeNy-Jalh6E6Ak5gONu0FQHaE0&mediaurl=https%3a%2f%2fi.imgur.com%2fD1Vbn2v.gif&exph=390&expw=600&q=game+development+gif&simid=607995416879389687&FORM=IRPRST&ck=C489785BAD57E8FC81573A07078EB531&selectedIndex=11&itb=0)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PraveenTechWizard&color=blue&style=flat-square)
