@@ -16,11 +16,14 @@
 
 MCA Graduate from **Anna University, BIT Campus** | Aspiring Unity Game Developer
 
+Currently preparing for **MSc. Game Development** through Backstage Pass program, enhancing my game development expertise and industry knowledge.
+
 I'm a passionate game developer focused on creating immersive and engaging gaming experiences using Unity and C#. With a strong foundation in programming and problem-solving, I bring technical excellence and creativity to every project I build.
 ```csharp
 public class PraveenKumar : GameDeveloper
 {
     public string CurrentFocus = "Unity Game Development";
+    public string CurrentStudy = "Backstage Pass - MSc. Game Development";
     public string[] Skills = { "Unity", "C#", "Game Design", "Physics Simulation" };
     public string Goal = "Crafting memorable player experiences through code";
     
@@ -97,6 +100,7 @@ public class PraveenKumar : GameDeveloper
 
 ## 📚 Currently Mastering
 
+🎓 Pursuing MSc. Game Development through **Backstage Pass Program**  
 🎨 Advanced Animation Systems & State Machines  
 🧠 AI Behavior Trees & Pathfinding  
 ⚡ Shader Programming & Visual Effects  
