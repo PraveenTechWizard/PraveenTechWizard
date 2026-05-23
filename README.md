@@ -6,7 +6,7 @@
   
 [![Profile Views](https://komarev.com/ghpvc/?username=PraveenTechWizard&color=blueviolet&style=flat-square)](https://github.com/PraveenTechWizard)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/praveen-kumar-j-1bb832hx)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Lucy000-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/Lucy000)
+[![Edabit](https://img.shields.io/badge/Edabit-Lucy000-6C4BEF?style=flat-square&logo=edabit&logoColor=white)](https://edabit.com/user/YOUR_USER_ID)
 
 </div>
 
@@ -19,6 +19,7 @@ MCA Graduate from **Anna University, BIT Campus** | Aspiring Unity Game Develope
 Currently preparing for **MSc. Game Development** through Backstage Pass program, enhancing my game development expertise and industry knowledge.
 
 I'm a passionate game developer focused on creating immersive and engaging gaming experiences using Unity and C#. With a strong foundation in programming and problem-solving, I bring technical excellence and creativity to every project I build.
+
 ```csharp
 public class PraveenKumar : GameDeveloper
 {
@@ -50,12 +51,7 @@ public class PraveenKumar : GameDeveloper
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
 </div>
-
----
-
-
 
 ---
 
@@ -94,16 +90,14 @@ public class PraveenKumar : GameDeveloper
 
 ---
 
-
-
----
-
 ## 💻 Coding Practice
 
 <div align="center">
-  <a href="https://leetcode.com/Lucy000">
-    <img src="https://leetcard.jacoblin.cool/Lucy000?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
-  </a>
+
+[![Edabit](https://img.shields.io/badge/Edabit-My%20Profile-6C4BEF?style=for-the-badge&logoColor=white)](https://edabit.com/user/jothiramanpraveen007)
+
+![Edabit Badge](https://img.shields.io/badge/Challenges%20Solved-Level%20Up%20Daily-6C4BEF?style=for-the-badge&logo=checkmarx&logoColor=white)
+
 </div>
 
 ---
@@ -113,7 +107,7 @@ public class PraveenKumar : GameDeveloper
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Praveen_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-kumar-j-1bb832hx)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Lucy000-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Lucy000)
+[![Edabit](https://img.shields.io/badge/Edabit-Lucy000-6C4BEF?style=for-the-badge&logoColor=white)](https://edabit.com/user/YOUR_USER_ID)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
